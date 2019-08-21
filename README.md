@@ -1,4 +1,4 @@
-# Postgres Database on remote server. Case is used on Ubuntu
+# Redis instance on remote server. Case is used on Ubuntu
 
 ## Install Docker:
 [Get Docker CE for Ubuntu | Docker Documentation](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
